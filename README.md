@@ -1,2 +1,2 @@
 # congenial-barnacle
-Binary Search Tree class
+Binary Search Tree class, Node implementation
